@@ -5,7 +5,7 @@ import TripNavBar from '../tripDashboard/tripNavBar.jsx';
 import dummyData from '../tripDashboard/dummyData.js';
 import Dropzone from 'react-dropzone';
 import request from 'superagent';
-import PhotoEntry from './PhotoEntry.jsx';
+import PhotoEntry from './photoEntry.jsx';
 import $ from 'jquery';
 import { BindActionCreaters } from 'redux';
 const CLOUDINARY_UPLOAD_PRESET = 'lfnra5zh';
