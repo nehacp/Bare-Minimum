@@ -25,12 +25,13 @@ const TripEntry = (props) => {
   let images = ['./images/mountaincelebration.jpeg', './images/mountainlake.jpeg', './images/oceanview.jpeg']
 
           // {props.trip.photo ? <img src={props.trip.photo.path} alt="" />
+  //   <img src={images[getRandomIntInclusive(0, (images.length-1))]} />
 
   return (
     <div className="card-container">
       <div className="card mb-3 custom-card" onClick={() => props.click(props.trip)}>
         <div className="card-image">
-          <img src={images[getRandomIntInclusive(0, (images.length-1))]} />
+          {props.trip.photo ? <img src={props.trip.photo.path} /> : null}
         </div>
         <div className="card-body">
           <h4 className="card-title mb-1 custom-card-name"><a href="#">{props.trip.name}</a></h4>
