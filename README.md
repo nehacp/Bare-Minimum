@@ -2,6 +2,11 @@
 
 # Bare-Minimum   Travel with Friends
 
+## Project Details
+Taking an existing codebase and building additional features on top of it
+
+## App Details
+
 Travel App was created to support you and your friends to organize and share details of your next trip. The app allows you to plan and store all the details related:
  - Location of Trip
  - Dates of Trip
@@ -24,10 +29,10 @@ Future Features (User Stories) to Implement:
 
 ## Team
 
-  - Daniel Dai
-  - Christie Villanueva
-  - Justin Kwok
-  - Lara Ismael
+  - Johnny Li
+  - Neha Chaudhary
+	- Eugene Soo
+  - Tiffany Pham
 
 ## Table of Contents
 
