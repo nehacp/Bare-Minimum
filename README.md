@@ -5,7 +5,13 @@
 ## Project Details
 Taking an existing codebase and building additional features on top of it
 
-## App Details
+## Team
+  - [Johnny Li](https://github.com/Pegaiur)
+  - [Tiffany Pham](https://github.com/tiffaphm)
+  - [Neha Chaudhary](https://github.com/nehacp)
+  - [Eugene Soo](https://github.com/eugenesoo)
+
+## Provided App Details
 
 Travel App was created to support you and your friends to organize and share details of your next trip. The app allows you to plan and store all the details related:
  - Location of Trip
@@ -25,14 +31,6 @@ Future Features (User Stories) to Implement:
  - When Users log in, passwords/login information are secure-- implement authentication strategy (utilize encryption/hashing/salt)
  - Trip members can edit a calendar together to work out trip itinerary
  - Users can post photos to be shared among all trip members
-
-
-## Team
-
-  - Johnny Li
-  - Neha Chaudhary
-	- Eugene Soo
-  - Tiffany Pham
 
 ## Table of Contents
 
